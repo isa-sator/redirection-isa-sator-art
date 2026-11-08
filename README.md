@@ -1,2 +1,3 @@
-# redirection-isa-sator-art
-Renvoi de isa-sator.art vers isasator.art
+# Renvoi
+
+isa-sator.art renvoie vers https://isasator.art (site d'Isa Sator).
